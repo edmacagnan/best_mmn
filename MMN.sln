@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMN.DL", "MMN.DL\MMN.DL.csproj", "{B8111065-35C1-4DE4-8CEB-8BBFC71A3941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMN.BL", "MMN.BL\MMN.BL.csproj", "{C029FCD9-0675-413F-B726-E80EEA14F2F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotFiles", "DotFiles", "{FE669383-1329-4630-AD93-C492DD367680}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8111065-35C1-4DE4-8CEB-8BBFC71A3941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8111065-35C1-4DE4-8CEB-8BBFC71A3941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8111065-35C1-4DE4-8CEB-8BBFC71A3941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8111065-35C1-4DE4-8CEB-8BBFC71A3941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C029FCD9-0675-413F-B726-E80EEA14F2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C029FCD9-0675-413F-B726-E80EEA14F2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C029FCD9-0675-413F-B726-E80EEA14F2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C029FCD9-0675-413F-B726-E80EEA14F2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
