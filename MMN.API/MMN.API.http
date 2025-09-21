@@ -1,0 +1,6 @@
+@MMN.API_HostAddress = http://localhost:5150
+
+GET {{MMN.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
