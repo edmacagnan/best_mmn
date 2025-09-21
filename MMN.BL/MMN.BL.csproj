@@ -16,7 +16,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="StateMachines\" />
+      <Folder Include="StateMachines\Company\Actions\" />
+      <Folder Include="StateMachines\Company\Rules\" />
     </ItemGroup>
 
 </Project>

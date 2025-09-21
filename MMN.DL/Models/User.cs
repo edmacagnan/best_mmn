@@ -28,7 +28,7 @@ public class User {
 
     [Required]
     [MaxLength(50)]
-    public string Status { get; set; } = null!;
+    public string State { get; set; } = null!;
 
     public virtual Company? Company { get; set; }
     public virtual ICollection<UserProfile> Profiles { get; set; }

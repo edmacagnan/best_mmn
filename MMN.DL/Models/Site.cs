@@ -26,7 +26,7 @@ public class Site {
 
     [Required]
     [MaxLength(50)]
-    public string Status { get; set; } = null!;
+    public string State { get; set; } = null!;
 
     public virtual Company Company { get; set; }
 }

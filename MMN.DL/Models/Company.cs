@@ -24,7 +24,7 @@ public class Company {
     
     [Required]
     [MaxLength(50)]
-    public string Status { get; set; } = null!;
+    public string State { get; set; } = null!;
 
 
     public virtual SystemPlan Plan { get; set; }
